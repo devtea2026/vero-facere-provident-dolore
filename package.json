@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/vero-facere-provident-dolore",
-  "version": "2.6.34",
+  "version": "2.6.35",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -709,5 +709,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/vero-facere-provident-dolore/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
